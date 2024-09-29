@@ -612,7 +612,11 @@
     ],
     [
       "314fec36-ab69-487a-9749-14a22a489b4e",
-      "Power"
+      "Power Distribution"
+    ],
+    [
+      "41231c9e-3fa9-4a60-978a-96fbb2885905",
+      "DC Motor Control"
     ]
   ],
   "text_variables": {}
