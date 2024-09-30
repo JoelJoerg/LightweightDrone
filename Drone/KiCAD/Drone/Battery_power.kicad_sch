@@ -549,7 +549,12 @@
     (uuid f8cc1ca2-3be4-4673-8065-c6e39809a502)
   )
 
-  (text "Alternatively, use ferrite beads for VDDA. \nBut what frequencies need attenuation?\n(All SPI @ 10Mhz, DC-Motor control PWM frequency ??)"
+  (text "To debug, connect power supply\nto battery plug (include extra \nplug in BOM)."
+    (at 17.78 69.85 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 4d73f53a-2bfd-429b-abdb-0732649f8644)
+  )
+  (text "Alternatively, use ferrite beads for VDDA. \nBut what frequencies need attenuation?\n(All SPI @ 10Mhz, DC-Motor control PWM frequency 20kHz)"
     (at 123.19 62.23 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 5ce7b66f-40bf-47d1-85fb-addb8f80cc50)

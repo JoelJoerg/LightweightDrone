@@ -9,3 +9,6 @@ Schematics for main ICs.
 
 29.9.24:
 Battery power distribution and motor control circuit. Created repo on GitHub.
+
+30.9.24:
+Considerations if I need a MOSFET driver. Estimates and calculations for DC switching circuit.
