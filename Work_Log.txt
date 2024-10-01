@@ -1,0 +1,17 @@
+22.9.24:
+Requirements research, Concept and planning
+
+25.9.24:
+Choosing main components and dimensioning. Imported symbols and footprints.
+
+26.9.24:
+Schematics for main ICs.
+
+29.9.24:
+Battery power distribution and motor control circuit. Created repo on GitHub.
+
+30.9.24:
+Considerations if I need a MOSFET driver. Estimates and calculations for DC switching circuit.
+
+1.10.24:
+SPI connections, PWM Pins
