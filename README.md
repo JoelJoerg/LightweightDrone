@@ -53,8 +53,26 @@ I am concerned about power losses with small resistors (14mW with 3.84mA and 3.7
 
 My experience is very limited on this topic and I will go forward without a driver to see what happens. I intend to experiment with different resistor values.
 
+
+
 ## Schematics
-![image](https://github.com/user-attachments/assets/a70238b1-1599-41a0-93a1-a771661191e8)
+
+#### Done
+- Motor control driver + signal connections
+- SPI connections
+- Oscillators
+- Decoupling
+- Main ICs connections (beside µC)
+- Basic power
+
+#### ToDo
+- Clamping, ESD safety
+- Booting logic
+- Programming connections
+- Probably more...
+
+![image](https://github.com/user-attachments/assets/c464c45f-4dc1-4706-acea-1f4bf366f8e9)
+
 ![image](https://github.com/user-attachments/assets/ed4fb1e3-10e3-4206-8926-4ddf1daf6398)
 ![image](https://github.com/user-attachments/assets/0a80a9c3-3a5e-4272-a443-f21bdbcd8df1)
 
